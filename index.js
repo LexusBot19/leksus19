@@ -1,9 +1,9 @@
-const  XBOT = 'AMPIBI'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/affis_saputro123'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6282334297175'; // Nomor whatsapplu cok
-const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
-const groupwa = 'comming soon'; // OFFICIAL GRUP LU 1
-const youtube = 'https://youtube.com/channel/UCYKxsg7iF9a9IZyXQRNsvqw'; 
+const  XBOT = 'LexusBot🐥✨'; // Nama Bot Whatsapp
+const instagram = 'https://instagram.com/lxcyz._'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6288806756044'; // Nomor whatsapplu cok
+const aktif = '07:00-19:00 WIB'; // Kapan bot lu aktif
+const groupwa = 'https://bit.ly/LexusWA'; // OFFICIAL GRUP LU 1
+const youtube = 'https://youtube.com/channel/UCBn8TV6O4x56Js0-lCU7ynQ'; 
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
 const cheerio = require("cheerio");
